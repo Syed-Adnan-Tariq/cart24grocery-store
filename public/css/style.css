@@ -1,0 +1,176 @@
+                                              /*Cart.blade.php*/
+
+.button {
+    padding-top:10px;
+    background-color: #81bc00; /* Green */
+    border: none;
+    width: 160px;
+    height: 40px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 4px;
+
+
+}
+
+.button2 {    border-radius: 4px;
+}
+a#hover:hover{
+    background-color:black;
+    color: white;
+}                                            /*nav.blade.php*/
+
+#nav{
+    background-color: #81bc00;
+    color: white;
+}
+                                            /*header.blade.php*/
+
+#textslider{
+    background-color: #81bc00;
+    color: white;
+    font-size: 16px;
+}
+
+
+
+                                            /*master.blade.php*/
+
+#category-panel{
+    background-color: #81bc00;
+    color: white;
+    border:solid;
+
+}
+#boarder{
+
+    border:solid ;
+
+}
+
+
+#beauty{
+
+    width:100%;
+
+
+}
+                                            /*feedback.blade.php*/
+
+#form{
+    margin-top: 5%;
+
+}
+.page_top_padding{
+    padding-bottom:10%;
+    padding-left:5%;
+
+}
+
+.container_top_padding{
+    padding-top:5%;
+}
+                                            /*footer.blade.php*/
+.heading{
+    background-color:#81bc00 ;
+    color: white;
+    text-align: center;
+}
+
+.panel-footer{
+    background-color:#81bc00 ;
+    color: white;
+    text-align: center;
+}
+
+                                        /*productdetail.blade.php*/
+#myimage{
+
+    width:300px;
+    height:240px;
+}
+
+.discount{
+
+    color: red;
+    float: right;
+    font-size: 15px;
+
+}
+
+.price{
+
+    color: #81bc00;
+    font-size: 15px;
+}
+
+#alert {
+    text-align: center;
+    font-size: medium;
+
+}
+
+            /*//////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+                                                        /*Admin pannel style*/
+
+            /*//////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+
+
+
+#table_style
+{
+    background-color:#81bc00;
+    color:white;
+    border-color:#81bc00 ;
+}
+
+#image_size{
+       margin: auto;
+       padding: auto;
+       height: 200px;
+       width: 200px;
+   }
+#top_padding{
+
+padding-top: 55px;
+    text-align: center;
+        color: #81bc00;
+}
+
+#top_pad{
+padding-top: 45px;
+    text-align: center;
+        color: #81bc00;
+}
+#text_align{
+    padding-top: 55px;
+    text-align:left;
+    color: #81bc00;
+}
+#t_pad{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    color: #81bc00;
+}
+#note{
+    background-color: #81bc00;
+    float: right;
+}
+
+#myImageId{
+    width:200px;
+    height:200px;
+}
+#addnew{
+    float: right;
+    padding-right: 73%;
+    margin-top: 25px;
+}
+
